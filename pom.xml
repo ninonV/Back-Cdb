@@ -16,7 +16,7 @@
 
 		<project.version>6.0</project.version>
 
-		<junit.version>4.12</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<mysql-connector-java.version>8.0.20</mysql-connector-java.version>
 		<slf4j-api.version>1.7.9</slf4j-api.version>
 		<slf4j-log4j12.version>1.7.9</slf4j-log4j12.version>
